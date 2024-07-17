@@ -26,11 +26,11 @@ pnpm dev:mp-weixin
 🍁 打包
 
 ```bash
-pnpm run build:mp-weixin
+pnpm build:mp-weixin
 ```
 
 🍄 Git 提交
 
 ```bash
-pnpm run cz
+pnpm cz
 ```
